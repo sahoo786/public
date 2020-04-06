@@ -285,7 +285,7 @@ def pilih_super():
 	print "\n\033[1;97m \x1b[1;91mTo Stop Process Press CTRL+ Z\033[1;97m"
 	print "\033[1;97m\033[1;92mTHANKS FOR USING\033[1;97m"
 	jalan(' \033[1;93mPLEASE WAIT CLONING IS IN PROCESS')
-	print "\033[1;;40m Editing My Script Will Not a Master Of Coding.This is Hamza Offficial Here \n")
+	
 	print "\033[1;97m\033[1;92m\033[1;97"
 	
 			
