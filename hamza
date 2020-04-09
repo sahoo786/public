@@ -51,13 +51,14 @@ logo = """
     \
      \
                                    .::!!!!!!!:.
-  .!!!!!:.                        .:!!!!!!!!!!!!
+     .!!!!!:.                    .:!!!!!!!!!!!!
   ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
       :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
       $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
       $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
       ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
         "*$bd$$$$      '*$$$$$$$$$$$o
+             """"          """""""
   _    _       __  __
  | |  | |     |  \/  |
  | |__| | __ _| \  / |______ _
@@ -86,7 +87,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 \033[1;91mWhatsapp\033[1;91m: \033[1;93m+923097992202
-\033[1;33;40m _    _       __  __
+\033[1;33;40m 
+  _    _       __  __
  | |  | |     |  \/  |
  | |__| | __ _| \  / |______ _
  |  __  |/ _` | |\/| |_  / _` |
@@ -95,23 +97,6 @@ print  """
 
 print "these commands only works on sim data "
 
-CorrectUsername = "hamza"
-CorrectPassword = "1626"
-
-loop = 'true'
-while (loop == 'true'):
-    username = raw_input("\033[1;96m\x1b[1;91mTool Username \x1b[1;91m \x1b[1;93m")
-    if (username == CorrectUsername):
-    	password = raw_input("\033[1;96m\x1b[1;91mTool Password \x1b[1;91m \x1b[1;93m")
-        if (password == CorrectPassword):
-            print "Logged in successfully as " + username
-            loop = 'false'
-        else:
-            print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.facebook.com/100048514350891')
-    else:
-        print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.facebook.com/100048514350891')
 
 def login():
 	os.system('clear')
